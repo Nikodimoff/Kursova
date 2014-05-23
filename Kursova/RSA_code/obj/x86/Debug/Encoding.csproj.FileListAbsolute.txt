@@ -1,0 +1,8 @@
+D:\Kursova\RSA_code\RSA_code\bin\Debug\RSA_code.exe.config
+D:\Kursova\RSA_code\RSA_code\bin\Debug\RSA_code.exe
+D:\Kursova\RSA_code\RSA_code\bin\Debug\RSA_code.pdb
+D:\Kursova\RSA_code\RSA_code\obj\x86\Debug\RSA_code.Form1.resources
+D:\Kursova\RSA_code\RSA_code\obj\x86\Debug\RSA_code.Properties.Resources.resources
+D:\Kursova\RSA_code\RSA_code\obj\x86\Debug\Encoding.csproj.GenerateResource.Cache
+D:\Kursova\RSA_code\RSA_code\obj\x86\Debug\RSA_code.exe
+D:\Kursova\RSA_code\RSA_code\obj\x86\Debug\RSA_code.pdb
